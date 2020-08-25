@@ -26,4 +26,11 @@ As with any Kernel based tradecraft, compatibility and stability are of primary 
 
 ### Demos
 
-The presentation has three demos, I will add the recordings for those next week.
+  * IBM RedCON 2020: AquaWrench Demo 1 (Protected Processes) - https://www.youtube.com/watch?v=zoFRBJp5b94
+  * IBM RedCON 2020: AquaWrench Demo 2 (Driver Signing Bypass) - https://www.youtube.com/watch?v=Hv3XM_eGcCU
+  * IBM RedCON 2020: AquaWrench Demo 3 (Blinding Telemetry) - https://www.youtube.com/watch?v=KjPCXWFsECE
+  
+### Recording
+
+A full recording of the presentation is also available at the following URL:
+https://gateway.on24.com/wcc/eh/2170362/category/36001/red-con-2020
